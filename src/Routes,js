@@ -1,0 +1,30 @@
+// import { Route, Routes } from "react-router-dom";
+// import "./App.css";
+// import Header from "./Components/Header/Header";
+// import Footer from "./Components/Footer/Footer";
+// import Section1 from "./Components/Section1/Section1";
+// import Section2 from "./Components/Section2/Section2";
+// import Section3 from "./Components/Section3/Section3";
+// import BookVenue from "./Components/BookVenue/Bookvenue";
+// import Home from "./Components/Home"
+// import React from "react"
+// // import Secondpage from "./Components/second-page/secondpage";
+
+// function AppRoutes() {
+//   return (
+//       <Routes>
+//       <Route path="/" element={<Home />} />
+//       <Route path="/bookVenue" element={<BookVenue/>} />
+//     </Routes>
+//       {/* <Header></Header>
+//       <Section1></Section1>
+//       <Section2></Section2>
+//       <Section3></Section3>
+//       <Footer></Footer>
+//       <BookVenue></BookVenue> */}
+// {/*     
+//         <Secondpage></Secondpage> */}
+//   );
+// }
+
+// export default  AppRoutes;

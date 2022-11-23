@@ -1,0 +1,77 @@
+.second-page{
+    margin: 10px 0;
+}
+.sectionA{
+    margin: 5% 10%;
+    display: flex;
+}
+.image1{
+    margin: -2% -5% 0 10px;
+    z-index: 1;
+}
+.image2{
+    margin: 15% -8% 0 -61px;
+}
+.image-cnt1{
+border-radius: 150px 0px 0px 0px;
+border: 15px solid #FBD07A;
+background: #FBD07A;
+}
+.image-cnt2{
+    border-radius: 0px 0px 159px 0px;;
+    border: 15px solid #003831;
+    background: #003831
+}
+
+.main-heading1{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: cursive;
+
+}
+.main-heading2{
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: cursive;
+
+}
+.sectionB{
+    margin: 20px 10%;
+}
+.book-venue-heading{
+        font-weight: 700;
+        font-size: 30px;
+        margin: 40px 0;
+}
+
+.sectionC{
+    margin: 15% 0;
+}
+
+.bg-purple{
+   background: #270F33;
+    height: 400px;
+    width: 100%;
+    z-index: -1;
+}
+.onerow ,.tworow{
+    display: flex;
+}
+.front{
+    margin: 0px 40px;
+}
+.front{
+    display: flex;
+}
+.para-text{
+    background-color: #FBD07A;
+    margin: 2% 7%;
+    padding: 2%;
+    height: 30%;
+}
